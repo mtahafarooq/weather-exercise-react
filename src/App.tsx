@@ -1,21 +1,13 @@
-import React, { useEffect } from 'react';
+import React  from 'react';
 import './App.css';
-import { fetchForecastAction } from 'pages/Forecast/slices/forecast-slice';
-import { useDispatch } from "react-redux";
-import ForecastsDashboard from "./pages/Forecast";
+import ForecastsDashboard from "./pages/Forecast/containers/forecasts-container";
+import { Container } from "@material-ui/core";
 
 function App() {
-
-  const dispatch = useDispatch();
-
-  useEffect(() => {
-    dispatch(fetchForecastAction());
-  }, [dispatch]);
-
   return (
-    <>
-      <ForecastsDashboard/>
-    </>
+    <Container>
+      <ForecastsDashboard />
+    </Container>
   );
 }
 

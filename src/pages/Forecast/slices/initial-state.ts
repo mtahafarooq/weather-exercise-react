@@ -1,9 +1,17 @@
 import { RequestStatus } from "../../../models/enums/request-status";
-import { ForecastStateModel } from "../types/forecast-state-model";
+import { ForecastStateModel, TemperatureUnit } from "../types/forecast-state-model";
 
 export const initialState: ForecastStateModel = {
 
-  forecasts: [],
+  pageSize: 3,
+
+  carouselCursor: 0,
+
+  selectedForecastCardDate: '',
+
+  forecastDataByDay: {},
+
+  temperatureUnit: TemperatureUnit.celsius,
 
   loadForecastsRequestStatus: RequestStatus.Idle,
 
