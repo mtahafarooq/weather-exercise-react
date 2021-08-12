@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/weather-exercise-react/static/css/main.a617e044.chunk.css",
-    "main.js": "/weather-exercise-react/static/js/main.73154174.chunk.js",
-    "main.js.map": "/weather-exercise-react/static/js/main.73154174.chunk.js.map",
+    "main.js": "/weather-exercise-react/static/js/main.7b87148e.chunk.js",
+    "main.js.map": "/weather-exercise-react/static/js/main.7b87148e.chunk.js.map",
     "runtime-main.js": "/weather-exercise-react/static/js/runtime-main.b6af736b.js",
     "runtime-main.js.map": "/weather-exercise-react/static/js/runtime-main.b6af736b.js.map",
-    "static/js/2.554b9596.chunk.js": "/weather-exercise-react/static/js/2.554b9596.chunk.js",
-    "static/js/2.554b9596.chunk.js.map": "/weather-exercise-react/static/js/2.554b9596.chunk.js.map",
+    "static/js/2.b66c415b.chunk.js": "/weather-exercise-react/static/js/2.b66c415b.chunk.js",
+    "static/js/2.b66c415b.chunk.js.map": "/weather-exercise-react/static/js/2.b66c415b.chunk.js.map",
     "static/js/3.49cd07a7.chunk.js": "/weather-exercise-react/static/js/3.49cd07a7.chunk.js",
     "static/js/3.49cd07a7.chunk.js.map": "/weather-exercise-react/static/js/3.49cd07a7.chunk.js.map",
     "index.html": "/weather-exercise-react/index.html",
     "static/css/main.a617e044.chunk.css.map": "/weather-exercise-react/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.554b9596.chunk.js.LICENSE.txt": "/weather-exercise-react/static/js/2.554b9596.chunk.js.LICENSE.txt"
+    "static/js/2.b66c415b.chunk.js.LICENSE.txt": "/weather-exercise-react/static/js/2.b66c415b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b6af736b.js",
-    "static/js/2.554b9596.chunk.js",
+    "static/js/2.b66c415b.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.73154174.chunk.js"
+    "static/js/main.7b87148e.chunk.js"
   ]
 }
